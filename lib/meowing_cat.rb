@@ -10,7 +10,7 @@ class Cat
   end 
   
   def meow 
-    prints "meow!"
+    print "meow!"
     
   end
   
