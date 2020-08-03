@@ -2,7 +2,7 @@
 
 
 class Cat 
-  attr_accesor :meow
+  attr_accessor :meow
   
   def meow 
     prints "meow!"
